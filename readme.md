@@ -1,0 +1,1 @@
+Using the fill algorithm, let's count the number of "rooms" or closed shapes in the 2D grid.
